@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.dendy_main {
+    background-image: url('../images/18.jpg');
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.card img {
+    width: 100%;
+}
