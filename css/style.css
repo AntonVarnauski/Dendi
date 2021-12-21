@@ -36,6 +36,7 @@ h1 {
 .card {
     width: 45%;
     margin: 0 auto;
+    margin-top: 30px;
 }
 
 .logo {
